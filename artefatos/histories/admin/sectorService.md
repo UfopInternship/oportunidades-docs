@@ -1,0 +1,38 @@
+## Histórias de usuário: Serviço de Gerenciamento de Setores
+### Tipo de Usuário: Admin
+
+### Registrar setor
+    
+    COMO administrador
+    EU GOSTARIA de registrar um novo setor
+     
+
+### Listar setores
+
+    COMO administrador
+    EU GOSTARIA de listar os setores registrados  
+
+
+### Detalhar setor
+
+    COMO administrador
+    EU GOSTARIA de visualizar um setor selecionado 
+    PARA detalhar os dados do setor
+
+### Editar setor
+    
+    COMO administrador
+    EU GOSTARIA de editar um setor selecionado
+    PARA alterar os dados do setor
+
+### Excluir setor
+
+    COMO administrador
+    EU GOSTARIA de excluir um setor selecionado 
+
+### Pesquisar setor
+    
+    COMO administrador
+    EU GOSTARIA de pesquisar os setores registrados
+    PARA filtrar os setores listados
+
