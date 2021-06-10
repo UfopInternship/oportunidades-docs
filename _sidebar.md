@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
+* [Home](/artefatos/install.md)
 * Backlog por tipo de usuário
   * [Admin](/artefatos/histories/admin/index.md)
   * [Empresa](/artefatos/histories/company/index.md)
